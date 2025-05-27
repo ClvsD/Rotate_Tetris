@@ -1,5 +1,5 @@
 # constants.py
-GRID_SIZE = 16            # era 10, agora é maior
+GRID_SIZE = 16           
 CELL_SIZE = 30            # opcional: aumentar o tamanho das células
 SCREEN_WIDTH = GRID_SIZE * CELL_SIZE
 SCREEN_HEIGHT = GRID_SIZE * CELL_SIZE
