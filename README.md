@@ -8,5 +8,5 @@ python -m pip install --upgrade pip
 * Instalar o pygame: 
 python -m pip install -U pygame
 
-*Testar a instalação da pygame:
+* Testar a instalação da pygame:
 python -m pygame.examples.aliens
